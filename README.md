@@ -3,3 +3,5 @@
 
  # [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
  # [Computer-vision-Algorithms](https://github.com/edward-wq/books/blob/master/Algorithms.pdf)
+  # [Computer-vision-Notes]( http://nana.lecturer.pens.ac.id/index_files/referensi/computer_vision/Computer%20Vision.pdf)
+                       
