@@ -4,9 +4,6 @@
   This repository provides a brief guide to modern computer vision tasks such as image classification, object detection, segmentation, OCR, and more.
   A collection of cutting-edge computer vision projects using deep learning and image processing. Includes tasks like image classification, object detection, and segmentation with frameworks like OpenCV, TensorFlow, and PyTorch. Contributions are welcome!
 
- # [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
- # [Computer-vision-Algorithms](https://github.com/edward-wq/books/blob/master/Algorithms.pdf)
-  # [Computer-vision-Notes]( http://nana.lecturer.pens.ac.id/index_files/referensi/computer_vision/Computer%20Vision.pdf)
 # 🧠 Computer Vision Tools Overview
 
 ---
@@ -52,11 +49,27 @@ This repo includes:
 
 ---
 
-## 🚀 Getting Started
-
-Install key dependencies using pip:
-
-```bash
-pip install opencv-python-headless matplotlib pillow scikit-image torch torchvision tensorflow keras pytesseract
-
+ # [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
+ # [Computer-vision-Algorithms](https://github.com/edward-wq/books/blob/master/Algorithms.pdf)
+  # [Computer-vision-Notes]( http://nana.lecturer.pens.ac.id/index_files/referensi/computer_vision/Computer%20Vision.pdf)
                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
